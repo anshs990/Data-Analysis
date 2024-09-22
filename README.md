@@ -2,30 +2,9 @@
 <h3 align="center">Aspiring Data Analyst | Systems Engineer @ Wipro | Problem Solver</h3>
 
 
-<div style="display: flex; align-items: flex-start; justify-content: center; padding: 0;">
-    <div style="flex: 0 0 50%; padding-right: 20px;">
-        <ul style="list-style-type: none; padding: 0;">
-            <li>👨‍💻 All of my projects are available at <a href="https://github.com/anshs990/Data-Analysis/projects?query=is%3Aopen">GitHub Projects</a></li>
-            <li>📫 How to reach me: <strong>anshs990@gmail.com</strong></li>
-            <li>⚡ Fun fact: I'm the type of person who finds <br>
-                beauty in a well-organized spreadsheet and excitement <br>
-                in cracking complex data problems. If numbers could talk, they'd be my best friends!</li>
-        </ul>
-    </div>
-    <div style="flex: 0 0 50%; text-align: center;">
-        <img alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
-    </div>
-</div>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" >
+    
 
-<div style="display: flex;">
-    <div style="width: 50%; position: relative; border: 5px outset red; padding: 10px;">
-        <h2>This is a heading in a div element</h2>
-        <p>This is some text in a div element.</p>
-    </div>
-    <div style="width: 50%; border: 5px outset red; padding: 10px;">
-        Hello
-    </div>
-</div>
 
 
 
