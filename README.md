@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shree Ramji</h1>
 <h3 align="center">Aspiring Data Analyst | Systems Engineer @ Wipro | Problem Solver</h3>
 
-<img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/214929/screenshots/4366947/dribbble-shot_6.gif">
+<img align="right" alt="coding" width="400" scr="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" >
 
 - 👨‍💻 All of my projects are available at [https://github.com/anshs990/Data-Analysis/projects?query=is%3Aopen](https://github.com/anshs990/Data-Analysis/projects?query=is%3Aopen)
 
