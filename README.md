@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I'm the type of person who finds beauty in a well-organized spreadsheet and excitement in cracking complex data problems. If numbers could talk, they'd be my best friends!**
 
 
-<br><br><br>
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +19,7 @@
     <a href="https://www.hackerrank.com/anshs990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshs990" height="30" width="40" style="padding: 20px;></a>
     <a href="https://www.leetcode.com/anshs990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshs990" height="30" width="40"/></a>
 </p>
-<br><br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://app.powerbi.com/" target="_blank" rel="noreferrer"> <img src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo-2013.png" alt="Power BI" width="40" height="40" style="padding: 20px;>  </a>
@@ -30,7 +30,7 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="padding: 20px;> </a> 
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" > </a> 
 </p>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshs990&show_icons=true&locale=en&layout=compact" alt="anshs990" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshs990&show_icons=true&locale=en" alt="anshs990" /></p>
