@@ -11,11 +11,11 @@
 - ⚡ Fun fact **I'm the type of person who finds beauty in a well-organized spreadsheet and excitement in cracking complex data problems. If numbers could talk, they'd be my best friends!**
 
 
-<br><br>
+<br><br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/anshs990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshs990" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/anshs990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshs990" height="30" width="40" style="padding:20px;" /></a>
     <a href="https://www.hackerrank.com/anshs990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anshs990" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/anshs990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anshs990" height="30" width="40" /></a>
 </p>
