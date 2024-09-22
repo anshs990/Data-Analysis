@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shree Ramji</h1>
 <h3 align="center">Aspiring Data Analyst | Systems Engineer @ Wipro | Problem Solver</h3>
 
+
 <div style="display: flex; align-items: flex-start; justify-content: center; padding: 0;">
     <div style="flex: 0 0 50%; padding-right: 20px;">
         <ul style="list-style-type: none; padding: 0;">
@@ -15,6 +16,18 @@
         <img alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
     </div>
 </div>
+
+<div style="display: flex;">
+    <div style="width: 50%; position: relative; border: 5px outset red; padding: 10px;">
+        <h2>This is a heading in a div element</h2>
+        <p>This is some text in a div element.</p>
+    </div>
+    <div style="width: 50%; border: 5px outset red; padding: 10px;">
+        Hello
+    </div>
+</div>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
