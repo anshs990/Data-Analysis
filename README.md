@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shree Ramji</h1>
-<h3 align="center">Aspiring Data Analyst | Systems Engineer @ Wipro | Problem Solver</h3>
+<h3 align="center">Aspiring Data Analyst | Systems Engineer @ Wipro | Problem Solver</h3><br><br>
 
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" >
@@ -11,7 +11,7 @@
 - ⚡ Fun fact **I'm the type of person who finds beauty in a well-organized spreadsheet and excitement in cracking complex data problems. If numbers could talk, they'd be my best friends!**
 
 
-    
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
