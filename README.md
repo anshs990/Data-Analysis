@@ -3,10 +3,15 @@
 
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" >
+
+- 👨‍💻 All of my projects are available at [https://github.com/anshs990/Data-Analysis/projects?query=is%3Aopen](https://github.com/anshs990/Data-Analysis/projects?query=is%3Aopen)
+
+- 📫 How to reach me **anshs990@gmail.com**
+
+- ⚡ Fun fact **I'm the type of person who finds beauty in a well-organized spreadsheet and excitement in cracking complex data problems. If numbers could talk, they'd be my best friends!**
+
+
     
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
