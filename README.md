@@ -6,7 +6,8 @@
         <ul style="list-style-type: none; padding: 0;">
             <li>👨‍💻 All of my projects are available at <a href="https://github.com/anshs990/Data-Analysis/projects?query=is%3Aopen">GitHub Projects</a></li>
             <li>📫 How to reach me: <strong>anshs990@gmail.com</strong></li>
-            <li>⚡ Fun fact: I'm the type of person who finds beauty in a well-organized spreadsheet and excitement in cracking complex data problems. If numbers could talk, they'd be my best friends!</li>
+            <li>⚡ Fun fact: I'm the type of person who finds beauty in a well-organized spreadsheet 
+            and excitement in cracking complex data problems. If numbers could talk, they'd be my best friends!</li>
         </ul>
     </div>
     <div style="flex: 1; text-align: center; width: 40%; position: relative;">
