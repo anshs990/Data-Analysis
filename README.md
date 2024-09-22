@@ -1,3 +1,4 @@
+<img src="https://hellofuture.orange.com/app/uploads/2021/04/home-HF_GA-1920x1080-CYBERSECU.gif" alt="Sample Image" width="1050" height="400">
 <h1 align="center">Hi 👋, I'm Shree Ramji</h1>
 <h3 align="center">Aspiring Data Analyst | Systems Engineer @ Wipro | Problem Solver</h3><br><br>
 
