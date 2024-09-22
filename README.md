@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shree Ramji</h1>
 <h3 align="center">Aspiring Data Analyst | Systems Engineer @ Wipro | Problem Solver</h3>
 
-<div style="display: flex; align-items: flex-start; justify-content: center; padding: 20px;">
-    <div style="flex: 1; padding-right: 20px;">
+<div style="display: flex; align-items: flex-start; justify-content: center; padding: 0px;">
+    <div style="flex: 1; padding-right: 20px; width:40%; postion: relative;">
         <ul style="list-style-type: none; padding: 0;">
             <li>👨‍💻 All of my projects are available at <a href="https://github.com/anshs990/Data-Analysis/projects?query=is%3Aopen">GitHub Projects</a></li>
             <li>📫 How to reach me: <strong>anshs990@gmail.com</strong></li>
             <li>⚡ Fun fact: I'm the type of person who finds beauty in a well-organized spreadsheet and excitement in cracking complex data problems. If numbers could talk, they'd be my best friends!</li>
         </ul>
     </div>
-    <div style="flex: 1; text-align: center;">
+    <div style="flex: 1; text-align: center; width: 40%; position: relative;">
         <img alt="coding" width="400" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif">
     </div>
 </div>
